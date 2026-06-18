@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-
-**ahadul2318-402-20-alt/ahadul2318-402-20-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on App Development
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on App Development Projects
